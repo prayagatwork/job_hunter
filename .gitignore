@@ -22,6 +22,5 @@ env.bak/
 venv.bak/
 
 # Local output / data files
-output/
 *.xlsx
 *.csv
